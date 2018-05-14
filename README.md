@@ -20,3 +20,7 @@ This is a simple web project, deployment ;d;d;;
 ## How To Contribute
 
 working
+
+### Copyright
+
+2017 git.training
