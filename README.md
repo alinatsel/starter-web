@@ -19,7 +19,7 @@ This is a simple web project, deployment ;d;d;;
 
 ## How To Contribute
 
-working
+Please fork this repository and tehn issue OPull request for erviw
 
 ### Copyright
 
