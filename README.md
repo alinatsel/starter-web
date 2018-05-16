@@ -25,4 +25,4 @@ Please fork this repository and tehn issue OPull request for erviw
 
 ### Copyright
 
-2017 git.training
+2017 git.training. All rights reserved.
